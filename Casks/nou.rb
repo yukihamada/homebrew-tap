@@ -6,7 +6,7 @@ cask "nou" do
   desc "Private AI — local LLM proxy running in your menu bar"
   homepage "https://nou.link"
 
-  sha256 "036ed8ec3a618ce8b7afc521a617d2cbc589a7d35ae38af715952533eaf516aa"
+  sha256 "6e41d0c1b17c017e7e83bddc0d25283cf1325b7138e7f9be1ca5de3bae5720aa"
 
   app "NOU.app"
 
