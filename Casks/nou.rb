@@ -1,5 +1,5 @@
 cask "nou" do
-  version "2.2.2"
+  version "2.3.0"
 
   url "https://github.com/yukihamada/NOU/releases/download/v#{version}/NOU-Installer.dmg"
   name "NOU"
